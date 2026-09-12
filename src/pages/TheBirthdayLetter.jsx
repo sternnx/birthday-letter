@@ -17,7 +17,7 @@ function TheBirthdayLetter() {
         <div className="app">
             <div className="paper">
                 <div className="letter">
-                    <p>Hi, HAPPY BIRTHDAYYY KAAIII!!</p>
+                    <p>Hiii, HAPPY BIRTHDAYYY KAAIII!!</p>
                     <p>
                         yooo old cutie u are finally 20!! Happy birthday to the sweetest boy eeverr
                         
