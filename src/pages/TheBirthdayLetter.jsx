@@ -19,15 +19,15 @@ function TheBirthdayLetter() {
                 <div className="letter">
                     <p>Hi, HAPPY BIRTHDAYYY KAAIII!!</p>
                     <p>
-                        u’re so amazing. u passed one more chapter in ur life. ik u can do it bcs i
-                        believe in you. see, you did it. i’m so proud of you. stay alive please, we need
-                        to catch up and celebrate our bday party in person. i miss you so much (hope you
-                        feel the same way). i’m still waiting your latest update, jut hit me through dm.
-                        u know exactly where to find me.
+                        yooo old cutie are finally 20!! Happy birthday to sweetest boy eeverr
+                        
+                      stay alive and don't die though you are my fav person btw and I enjoy everything I do with you I just don't show it very well 
+                        also because I wanna spend more time with you and laugh with you and do the things we love together 
+                       take care Kai happy birthday cutie ♡
                     </p>
                     <p>
-                        once more, enjoy ur new journey. hope Allah bless you and let happiness comes to
-                        you in every single seconds.
+                        once more,stay safe and take care of yourself you always deserve the best kaaii bell laabaann
+                        Happy birthday brrooo :3
                     </p>
                     <p style={{ textAlign: "right" }}>with love,</p>
                     <p style={{ textAlign: "right" }}>束束</p>
