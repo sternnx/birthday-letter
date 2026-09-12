@@ -19,7 +19,7 @@ function TheBirthdayLetter() {
                 <div className="letter">
                     <p>Hi, HAPPY BIRTHDAYYY KAAIII!!</p>
                     <p>
-                        yooo old cutie are finally 20!! Happy birthday to sweetest boy eeverr
+                        yooo old cutie u are finally 20!! Happy birthday to the sweetest boy eeverr
                         
                       stay alive and don't die though you are my fav person btw and I enjoy everything I do with you I just don't show it very well 
                         also because I wanna spend more time with you and laugh with you and do the things we love together 
