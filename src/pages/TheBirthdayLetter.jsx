@@ -30,7 +30,7 @@ function TheBirthdayLetter() {
                         you in every single seconds.
                     </p>
                     <p style={{ textAlign: "right" }}>with love,</p>
-                    <p style={{ textAlign: "right" }}>sky</p>
+                    <p style={{ textAlign: "right" }}>束束</p>
                 </div>
             </div>
 
