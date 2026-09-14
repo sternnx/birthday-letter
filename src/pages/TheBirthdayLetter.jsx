@@ -21,9 +21,9 @@ function TheBirthdayLetter() {
                     <p>
                         yooo old cutie u are finally 20!! Happy birthday to the sweetest boy eeverr
                         
-                      stay alive and don't die!! you are my fav person btw and I enjoy everything I do with you I just don't show it very well 
-                        also because I wanna spend more time with you and laugh with you and do the things we love together 
-                       take care Kai happy birthday cutie ♡
+                      stay healthy and don't go bald please!! you really are my fav person and I enjoy everything I do with you I just don't show it very well 
+                        I really I wanna spend more time with you and laugh with you and do the things we love together 
+                       glad we are together bgd ..happy birthday cutie ♡
                     </p>
                     <p>
                         once more,stay safe and take care of yourself you always deserve the best kaaii bell laabaann
